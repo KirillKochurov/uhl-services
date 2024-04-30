@@ -1,0 +1,14 @@
+[
+    {
+        key: 'all',
+        name: 'Всё'
+    },
+    {
+        key: 'vds',
+        name: 'VDS'
+    },
+    {
+        key: 'vhost',
+        name: 'Хостинг'
+    },
+]
