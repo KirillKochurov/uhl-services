@@ -21,7 +21,7 @@
         "id": 3,
         "title": "Тариф «Optimal»",
         "img": "https://unknownsoftwareslab.ru/static/uploads/gluascripts",
-        "description": "Диск: 15000 MB\nБазы данных: ∞\nСайты: 30\nПочта: Без ограничений\nPython/Node.JS: Включен\nБесплатный домен 3-го уровня! (Пример: orderid.uhl1.ru)",
+        "description": "Диск: 15000 MB<br>Базы данных: ∞\nСайты: 30\nПочта: Без ограничений\nPython/Node.JS: Включен\nБесплатный домен 3-го уровня! (Пример: orderid.uhl1.ru)",
         "category": "vhost",
         "price": "300",
         "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D10%26project%3D2"
