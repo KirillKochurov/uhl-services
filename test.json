@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Тариф «Landing»",
+        "img": "https://unknownsoftwareslab.ru/static/uploads/gluascripts",
+        "description": "Джуси пуси настусе",
+        "category": "vhost",
+        "price": "55999.00",
+        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D2%26project%3D2"
+    },
+    {
+        "id": 2,
+        "title": "Тариф «Landing»",
+        "img": "https://unknownsoftwareslab.ru/static/uploads/gluascripts",
+        "description": "Джуси пуси настусе",
+        "category": "vhost",
+        "price": "55999.00",
+        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D2%26project%3D2"
+    }
+]
