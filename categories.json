@@ -1,14 +1,14 @@
 [
     {
-        key: 'all',
-        name: 'Всё'
+        "key": "all",
+        "name": "Всё"
     },
     {
-        key: 'vds',
-        name: 'VDS'
+        "key": "vds",
+        "name": "VDS"
     },
     {
-        key: 'vhost',
-        name: 'Хостинг'
+        "key": "vhost",
+        "name": "Хостинг"
     },
 ]
