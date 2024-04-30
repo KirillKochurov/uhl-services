@@ -4,11 +4,11 @@
         "name": "Всё"
     },
     {
-        "key": "vds",
-        "name": "VDS"
-    },
-    {
         "key": "vhost",
         "name": "Хостинг"
+    },
+    {
+        "key": "vds",
+        "name": "VDS"
     },
 ]
