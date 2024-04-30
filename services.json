@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Тариф «Landing»",
         "img": "https://unknownsoftwareslab.ru/static/uploads/gluascripts",
-        "description": "Джуси пуси настусе",
+        "description": "Диск: 1024 MB ¦ Базы данных: 0 ¦ Сайты: 1 ¦ Почта: Без почты ¦ Бесплатный домен 3-го уровня! (Пример: orderid.uhl1.ru)",
         "category": "vhost",
         "price": "50",
         "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D2%26project%3D2"
@@ -12,7 +12,7 @@
         "id": 2,
         "title": "Тариф «Start»",
         "img": "https://unknownsoftwareslab.ru/static/uploads/gluascripts",
-        "description": "Джуси пуси настусе",
+        "description": "Диск: 10000 MB ¦ Базы данных: ∞ ¦ Сайты: 10 ¦ Почта: Без ограничений ¦ Бесплатный домен 3-го уровня! (Пример: orderid.uhl1.ru)",
         "category": "vhost",
         "price": "150",
         "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D6%26project%3D2"
@@ -21,7 +21,7 @@
         "id": 3,
         "title": "Тариф «Optimal»",
         "img": "https://unknownsoftwareslab.ru/static/uploads/gluascripts",
-        "description": "Диск: 15000 MB~\nБазы данных: ∞Сайты: 30Почта: Без ограниченийPython/Node.JS: ВключенБесплатный домен 3-го уровня! (Пример: orderid.uhl1.ru)",
+        "description": "Диск: 15000 MB ¦ Базы данных: ∞ ¦ Сайты: 30 ¦ Почта: Без ограничений ¦ Python/Node.JS: Включен ¦ Бесплатный домен 3-го уровня! (Пример: orderid.uhl1.ru)",
         "category": "vhost",
         "price": "300",
         "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D10%26project%3D2"
