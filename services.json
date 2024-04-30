@@ -5,7 +5,7 @@
         "img": "https://unknownsoftwareslab.ru/static/uploads/gluascripts",
         "description": "Джуси пуси настусе",
         "category": "vhost",
-        "price": "55999.00",
+        "price": "50",
         "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D2%26project%3D2"
     },
     {
@@ -14,7 +14,16 @@
         "img": "https://unknownsoftwareslab.ru/static/uploads/gluascripts",
         "description": "Джуси пуси настусе",
         "category": "vhost",
-        "price": "55999.00",
-        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D2%26project%3D2"
+        "price": "150",
+        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D6%26project%3D2"
+    },
+    {
+        "id": 3,
+        "title": "Тариф «Optimal»",
+        "img": "https://unknownsoftwareslab.ru/static/uploads/gluascripts",
+        "description": "Диск: 15000 MB\nБазы данных: ∞\nСайты: 30\nПочта: Без ограничений\nPython/Node.JS: Включен\nБесплатный домен 3-го уровня! (Пример: orderid.uhl1.ru)",
+        "category": "vhost",
+        "price": "300",
+        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D10%26project%3D2"
     }
 ]
