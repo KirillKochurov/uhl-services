@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Тариф «Landing»",
+        "title": "Хостинг «Landing»",
         "img": "https://site.uhl1.ru/static/media/icons/tarif_landing.png",
         "description": "Диск: 1024 MB ¦ Базы данных: 0 ¦ Сайты: 1 ¦ Почта: Без почты ¦ Бесплатный домен 3-го уровня! (Пример: orderid.uhl1.ru)",
         "category": "vhost",
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "title": "Тариф «Start»",
+        "title": "Хостинг «Start»",
         "img": "https://site.uhl1.ru/static/media/icons/tarif_start.png",
         "description": "Диск: 10000 MB ¦ Базы данных: ∞ ¦ Сайты: 10 ¦ Почта: Без ограничений ¦ Бесплатный домен 3-го уровня! (Пример: orderid.uhl1.ru)",
         "category": "vhost",
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "title": "Тариф «Optimal»",
+        "title": "Хостинг «Optimal»",
         "img": "https://site.uhl1.ru/static/media/icons/tarif_optimal.png",
         "description": "Диск: 15000 MB ¦ Базы данных: ∞ ¦ Сайты: 30 ¦ Почта: Без ограничений ¦ Python/Node.JS: Включен ¦ Бесплатный домен 3-го уровня! (Пример: orderid.uhl1.ru)",
         "category": "vhost",
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "title": "Тариф «Start»",
+        "title": "Виртуальный сервер «Start»",
         "img": "https://site.uhl1.ru/static/media/icons/tarif_start.png",
         "description": "1 vCPU / 1GB RAM / 15GB",
         "category": "vds",
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "title": "Тариф «Overclock»",
+        "title": "Виртуальный сервер «Overclock»",
         "img": "https://site.uhl1.ru/static/media/icons/tarif_overclock.png",
         "description": "1 vCPU / 2GB RAM / 25GB",
         "category": "vds",
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "title": "Тариф «Breakaway»",
+        "title": "Виртуальный сервер «Breakaway»",
         "img": "https://site.uhl1.ru/static/media/icons/tarif_breakaway.png",
         "description": "2 vCPU / 4GB RAM / 40GB",
         "category": "vds",
@@ -55,7 +55,7 @@
     },
     {
         "id": 7,
-        "title": "Тариф «Maximum»",
+        "title": "Виртуальный сервер «Maximum»",
         "img": "https://site.uhl1.ru/static/media/icons/tarif_maximum.png",
         "description": "3 vCPU / 8GB RAM / 60GB",
         "category": "vds",
