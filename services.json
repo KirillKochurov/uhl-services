@@ -25,5 +25,41 @@
         "category": "vhost",
         "price": "300",
         "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D10%26project%3D2"
+    },
+    {
+        "id": 4,
+        "title": "Тариф «Start»",
+        "img": "https://site.uhl1.ru/static/media/icons/tarif_start.png",
+        "description": "1 vCPU / 1GB RAM / 15GB",
+        "category": "vds",
+        "price": "170",
+        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvds%26startform%3Dvds%252Eorder%26pricelist%3D14%26project%3D2"
+    },
+    {
+        "id": 5,
+        "title": "Тариф «Overclock»",
+        "img": "https://site.uhl1.ru/static/media/icons/tarif_overclock.png",
+        "description": "1 vCPU / 2GB RAM / 25GB",
+        "category": "vds",
+        "price": "330",
+        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvds%26startform%3Dvds%252Eorder%26pricelist%3D24%26project%3D2"
+    },
+    {
+        "id": 6,
+        "title": "Тариф «Breakaway»",
+        "img": "https://site.uhl1.ru/static/media/icons/tarif_breakaway.png",
+        "description": "2 vCPU / 4GB RAM / 40GB",
+        "category": "vds",
+        "price": "600",
+        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvds%26startform%3Dvds%252Eorder%26pricelist%3D34%26project%3D2"
+    },
+    {
+        "id": 7,
+        "title": "Тариф «Maximum»",
+        "img": "https://site.uhl1.ru/static/media/icons/tarif_maximum.png",
+        "description": "3 vCPU / 8GB RAM / 60GB",
+        "category": "vds",
+        "price": "1000",
+        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvds%26startform%3Dvds%252Eorder%26pricelist%3D44%26project%3D2"
     }
 ]
