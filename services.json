@@ -2,64 +2,64 @@
     {
         "id": 1,
         "title": "Хостинг «Landing»",
-        "img": "https://uhl1.ru/static/media/icons/tarif_landing.png",
+        "img": "https://unknownhostinglab.ru/static/media/icons/tarif_landing.png",
         "description": "Диск: 1024 MB ¦ Базы данных: 0 ¦ Сайты: 1 ¦ Почта: Без почты ¦ Бесплатный домен 3-го уровня! (Пример: orderid.uhl1.ru)",
         "category": "vhost",
         "price": "50",
-        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D2%26project%3D2"
+        "link": "https://bill.unknownhostinglab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D2%26project%3D2"
     },
     {
         "id": 2,
         "title": "Хостинг «Start»",
-        "img": "https://uhl1.ru/static/media/icons/tarif_start.png",
+        "img": "https://unknownhostinglab.ru/static/media/icons/tarif_start.png",
         "description": "Диск: 10000 MB ¦ Базы данных: ∞ ¦ Сайты: 10 ¦ Почта: Без ограничений ¦ Бесплатный домен 3-го уровня! (Пример: orderid.uhl1.ru)",
         "category": "vhost",
         "price": "150",
-        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D6%26project%3D2"
+        "link": "https://bill.unknownhostinglab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D6%26project%3D2"
     },
     {
         "id": 3,
         "title": "Хостинг «Optimal»",
-        "img": "https://uhl1.ru/static/media/icons/tarif_optimal.png",
+        "img": "https://unknownhostinglab.ru/static/media/icons/tarif_optimal.png",
         "description": "Диск: 15000 MB ¦ Базы данных: ∞ ¦ Сайты: 30 ¦ Почта: Без ограничений ¦ Python/Node.JS: Включен ¦ Бесплатный домен 3-го уровня! (Пример: orderid.uhl1.ru)",
         "category": "vhost",
         "price": "300",
-        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D10%26project%3D2"
+        "link": "https://bill.unknownhostinglab.ru/billmgr?func=register&redirect=startpage%3Dvhost%26startform%3Dvhost%252Eorder%26pricelist%3D10%26project%3D2"
     },
     {
         "id": 4,
         "title": "Виртуальный сервер «Start»",
-        "img": "https://uhl1.ru/static/media/icons/tarif_start.png",
+        "img": "https://unknownhostinglab.ru/static/media/icons/tarif_start.png",
         "description": "1 vCPU / 1GB RAM / 15GB",
         "category": "vds",
         "price": "170",
-        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvds%26startform%3Dvds%252Eorder%26pricelist%3D14%26project%3D2"
+        "link": "https://bill.unknownhostinglab.ru/billmgr?func=register&redirect=startpage%3Dvds%26startform%3Dvds%252Eorder%26pricelist%3D14%26project%3D2"
     },
     {
         "id": 5,
         "title": "Виртуальный сервер «Overclock»",
-        "img": "https://uhl1.ru/static/media/icons/tarif_overclock.png",
+        "img": "https://unknownhostinglab.ru/static/media/icons/tarif_overclock.png",
         "description": "1 vCPU / 2GB RAM / 25GB",
         "category": "vds",
         "price": "330",
-        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvds%26startform%3Dvds%252Eorder%26pricelist%3D24%26project%3D2"
+        "link": "https://bill.unknownhostinglab.ru/billmgr?func=register&redirect=startpage%3Dvds%26startform%3Dvds%252Eorder%26pricelist%3D24%26project%3D2"
     },
     {
         "id": 6,
         "title": "Виртуальный сервер «Breakaway»",
-        "img": "https://uhl1.ru/static/media/icons/tarif_breakaway.png",
+        "img": "https://unknownhostinglab.ru/static/media/icons/tarif_breakaway.png",
         "description": "2 vCPU / 4GB RAM / 40GB",
         "category": "vds",
         "price": "600",
-        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvds%26startform%3Dvds%252Eorder%26pricelist%3D34%26project%3D2"
+        "link": "https://bill.unknownhostinglab.ru/billmgr?func=register&redirect=startpage%3Dvds%26startform%3Dvds%252Eorder%26pricelist%3D34%26project%3D2"
     },
     {
         "id": 7,
         "title": "Виртуальный сервер «Maximum»",
-        "img": "https://uhl1.ru/static/media/icons/tarif_maximum.png",
+        "img": "https://unknownhostinglab.ru/static/media/icons/tarif_maximum.png",
         "description": "3 vCPU / 8GB RAM / 60GB",
         "category": "vds",
         "price": "1000",
-        "link": "https://billmgr.unknownsoftwareslab.ru/billmgr?func=register&redirect=startpage%3Dvds%26startform%3Dvds%252Eorder%26pricelist%3D44%26project%3D2"
+        "link": "https://bill.unknownhostinglab.ru/billmgr?func=register&redirect=startpage%3Dvds%26startform%3Dvds%252Eorder%26pricelist%3D44%26project%3D2"
     }
 ]
